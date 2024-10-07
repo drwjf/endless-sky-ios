@@ -10,23 +10,15 @@ See the [player's manual](https://github.com/endless-sky/endless-sky/wiki/Player
 
 ## Installing the game
 
-Official releases of Endless Sky are available as direct downloads from [GitHub](https://github.com/endless-sky/endless-sky/releases/latest), on [Steam](https://store.steampowered.com/app/404410/Endless_Sky/), and on [Flathub](https://flathub.org/apps/details/io.github.endless_sky.endless_sky). Other package managers may also include the game, though the specific version provided may not be up-to-date.
+The newest release of Endless Sky iOS is embeded in an App AD3000, and can be installed from [Apple AppStore](https://itunes.apple.com/app/id1594792820).
 
 ## System Requirements
 
-Endless Sky has very minimal system requirements, meaning most systems should be able to run the game. The most restrictive requirement is likely that your device must support at least OpenGL 3.
-
-|| Minimum | Recommended |
-|---|----:|----:|
-|RAM | 750 MB | 2 GB |
-|Graphics | OpenGL 3.0 | OpenGL 3.3 |
-|Storage Free | 350 MB | 1.5 GB |
+iOS
 
 ## Building from source
 
-Development is done using [CMake](https://cmake.org) to compile the project. Most popular IDEs are supported through their respective CMake integration. [SCons](https://scons.org/) was the primary build tool up until 0.9.16, and some files and information continue to be available for it.
-
-For full installation instructions, consult the [Build Instructions](docs/readme-cmake.md) readme.
+The Endless Sky iOS is wrapped as a standard iOS framework, then any app can integrate it.
 
 ## Contributing
 
