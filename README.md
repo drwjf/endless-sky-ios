@@ -10,7 +10,7 @@ See the [player's manual](https://github.com/endless-sky/endless-sky/wiki/Player
 
 ## Installing the game
 
-The newest release of Endless Sky iOS is embeded in an App AD3000, and can be installed from [Apple AppStore](https://itunes.apple.com/app/id1594792820).
+Need to build to install to developers' device.
 
 ## System Requirements
 
@@ -18,7 +18,7 @@ iOS
 
 ## Building from source
 
-The Endless Sky iOS is wrapped as a standard iOS framework, then any app can integrate it.
+The Endless Sky iOS is wrapped as a standard iOS framework.
 
 ## Contributing
 
